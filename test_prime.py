@@ -25,6 +25,8 @@ def factorize(x):
 
     print("mainn editor1")
 
+    print("test2")
+
 if __name__ == '__main__':
     main()
         
